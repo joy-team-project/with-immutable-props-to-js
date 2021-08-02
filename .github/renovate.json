@@ -15,6 +15,6 @@
             "allowedVersions": "!/^(7\\.2\\.0)|(8\\.1\\.0)$/"
         }
     ],
-    "commitMessagePrefix": "chore",
+    "commitMessagePrefix": "chore: ",
     "rangeStrategy": "replace"
 }

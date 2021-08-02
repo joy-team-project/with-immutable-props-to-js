@@ -6,8 +6,8 @@
 [![CICD](https://github.com/tophat/with-immutable-props-to-js/actions/workflows/main.yml/badge.svg)](https://github.com/tophat/with-immutable-props-to-js/actions/workflows/main.yml)
 [![npm downloads](https://img.shields.io/npm/dm/with-immutable-props-to-js.svg)](https://npm-stat.com/charts.html?package=with-immutable-props-to-js)
 [![codecov](https://codecov.io/gh/tophat/with-immutable-props-to-js/branch/master/graph/badge.svg)](https://codecov.io/gh/tophat/with-immutable-props-to-js)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=tophat/with-immutable-props-to-js)](https://dependabot.com)
-
+[![Renovate
+enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat)](#contributors)
 [![Discord](https://img.shields.io/discord/809577721751142410)](https://discord.gg/YhK3GFcZrk)
 [![Maturity badge - level 3](https://img.shields.io/badge/Maturity-Level%203%20--%20Stable-green.svg)](https://github.com/tophat/getting-started/blob/master/scorecard.md)

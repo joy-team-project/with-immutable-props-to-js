@@ -3,13 +3,13 @@
 <span><img align="right" src="./website/static/img/ml.png" alt="Logo"></span>
 
 [![npm](https://img.shields.io/npm/v/with-immutable-props-to-js.svg)](https://www.npmjs.com/package/with-immutable-props-to-js)
-[![CICD](https://github.com/tophat/with-immutable-props-to-js/actions/workflows/main.yml/badge.svg)](https://github.com/tophat/with-immutable-props-to-js/actions/workflows/main.yml)
+[![Builds](https://img.shields.io/circleci/project/github/tophat/with-immutable-props-to-js/master.svg)](https://circleci.com/gh/tophat/with-immutable-props-to-js)
 [![npm downloads](https://img.shields.io/npm/dm/with-immutable-props-to-js.svg)](https://npm-stat.com/charts.html?package=with-immutable-props-to-js)
 [![codecov](https://codecov.io/gh/tophat/with-immutable-props-to-js/branch/master/graph/badge.svg)](https://codecov.io/gh/tophat/with-immutable-props-to-js)
-[![Renovate
-enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=tophat/with-immutable-props-to-js)](https://dependabot.com)
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat)](#contributors)
-[![Discord](https://img.shields.io/discord/809577721751142410)](https://discord.gg/YhK3GFcZrk)
+[![Slack workspace](https://slackinvite.dev.tophat.com/badge.svg)](https://opensource.tophat.com/slack)
 [![Maturity badge - level 3](https://img.shields.io/badge/Maturity-Level%203%20--%20Stable-green.svg)](https://github.com/tophat/getting-started/blob/master/scorecard.md)
 
 A higher-order component for keeping Immutable objects outside your presentational components

@@ -57,9 +57,6 @@
     "react-dom": "^16.13.1"
   },
   "peerDependencies": {
-    "immutable": ">=3.0.0",
-    "react": ">=16.3.0",
-    "react-dom": ">=16.3.0"
   },
   "jest": {
     "testEnvironment": "jsdom",
